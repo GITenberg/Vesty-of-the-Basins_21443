@@ -1,0 +1,28 @@
+_repo: Vesty-of-the-Basins_21443
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21443-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Greene, Sarah Pratt McLean
+    alias: McLean, Sarah Pratt
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '8827'
+    url: http://www.gutenberg.org/2009/agents/8827
+description: ''
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21443'
+  lccn: 01000888
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Maine -- Fiction'
+title: Vesty of the Basins
+url: http://www.gutenberg.org/ebooks/21443
